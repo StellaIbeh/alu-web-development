@@ -29,5 +29,5 @@ Under the banner, I added the quote block
 Video List
 Membership section
 FAQ
-Footer
-https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?type=design&node-id=3558-0&t=UNPSfbOmJCkDHel7-4
+Footer<img width="1440" alt="School Page@2x" src="https://github.com/StellaIbeh/alu-web-development/assets/116550946/08394004-0a38-43ca-b7ce-2b37b63e8c7a">
+
