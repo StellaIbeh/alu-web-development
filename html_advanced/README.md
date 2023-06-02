@@ -1,4 +1,6 @@
-##HTML-Learning Objectives
+##HTML-
+img src
+Learning Objectives
 At the end of this project, I am expected to be able to explain to anyone, without the help of Google.
 General
 What is HTML
@@ -9,13 +11,13 @@ What is an element / tag
 What is an attribute
 What the purpose of each HTML tag
 Requirements
-All my  files should end with a new line
+All my files should end with a new line
 A README.md file, at the root of the folder of the project is mandatory
 You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 Your code should be W3C compliant and validate with W3C-Validator
 In this and coming projects, I was able to implement from scratch a webpage from a designer file.
 For this first project,I focused on the HTML structure only - no CSS, no style - just pure HTML semantic.
-I got my design on Figma 
+I got my designer on Figma 
 Page in Figma
 fig file
 And “Duplicated to my Drafts” to have access to all design details.
@@ -28,3 +30,4 @@ Video List
 Membership section
 FAQ
 Footer
+https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage?type=design&node-id=3558-0&t=UNPSfbOmJCkDHel7-4
